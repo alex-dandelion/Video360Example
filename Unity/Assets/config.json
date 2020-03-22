@@ -1,0 +1,24 @@
+{
+	"0":{"path":"http://www.ihatethisgame.net/krnshdt.mp4","id":"0","name":"", "points":[ 
+		{"id":0,"position":{"x":-50,"y":-10,"z":0}},
+		{"id":1,"position":{"x":40,"y":0,"z":0}},
+		{"id":2,"position":{"x":30,"y":2,"z":40}},
+		{"id":3,"position":{"x":40,"y":15.0,"z":0}}
+	] },
+	"1":{"path":"http://www.ihatethisgame.net/krnshdt.mp4","id":"1","name":"", "points":[
+		{"id":0,"position":{"x":40,"y":0,"z":0}},
+		{"id":1,"position":{"x":-50,"y":-10,"z":0}},
+		{"id":2,"position":{"x":40,"y":0,"z":40}},
+		{"id":3,"position":{"x":40,"y":15,"z":0}}] },
+	"2":{"path":"http://www.ihatethisgame.net/krnshdt.mp4","id":"2","name":"", "points":[
+		{"id":0,"position":{"x":40,"y":0,"z":-40}},
+		{"id":1,"position":{"x":30,"y":20.0,"z":40}},
+		{"id":2,"position":{"x":-50,"y":-10.0,"z":0}},
+		{"id":3,"position":{"x":40,"y":15.0,"z":0}}] },
+	"3":{"path":"http://www.ihatethisgame.net/krnshdt.mp4","id":"3","name":"", "points":[
+		{"id":0,"position":{"x":5,"y":-40,"z":0}},
+		{"id":1,"position":{"x":5,"y":40,"z":0}},
+		{"id":2,"position":{"x":5,"y":0,"z":20}},
+		{"id":3,"position":{"x":-55,"y":-10,"z":20}}
+	] }
+}
